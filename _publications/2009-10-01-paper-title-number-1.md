@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Multi-Relational Link Prediction for an Online Health Community"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+permalink: /publication/paper1
+paperurl: 'http://academicpages.github.io/files/INFORMS_DS19_multi_relational_link_prediction.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Abstract:
+Social networks often incorporate multiple types of social relationships, making them multi-relational networks. Effective link predictions can help social networks improve user experience and engagement, but limited attention has been paid to pre- dicting links in multi-relational networks. This paper explores link predictions in multi- relational networks from an online health community. We demonstrate that leveraging information from multiple networks built based on different types of relationships is superior to using only information from a single network or the aggregated network. In addition, adding community structures, nodal similarities based on network embed- ding and topic similarity can help link predictions in different ways. Our work has implications for the design and management of a successful online health community.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/INFORMS_DS19_multi_relational_link_prediction.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Sulyun Lee, Hankyun Jang, Kang Zhao, Michael S. Amato, and Amanda L. Graham.  ”Multi-Relational LinkPrediction for an Online Health Community.”INFORMS Data Science Workshop, Seattle, WA, 2019.
