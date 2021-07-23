@@ -2,6 +2,7 @@
 title: "Multi-Relational Link Prediction for an Online Health Community"
 collection: publications
 date: 2019-10-19
+venue: INFORMS Data Science Workshop
 permalink: /publication/paper1
 ---
 Sulyun Lee, Hankyun Jang, Kang Zhao, Michael S. Amato, and Amanda L. Graham
