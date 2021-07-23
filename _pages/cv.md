@@ -5,6 +5,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /files/paper1.pdf
+paperurl: "https://sulyunlee.github.io/files/paper1.pdf"
 ---
 
 {% include base_path %}
