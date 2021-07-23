@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /files/paper1.pdf
 author_profile: true
 redirect_from:
-  - /files/paper1.pdf
+  - /resume
 paperurl: "https://sulyunlee.github.io/files/paper1.pdf"
 ---
 
