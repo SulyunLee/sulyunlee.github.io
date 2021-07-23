@@ -1,5 +1,5 @@
 ---
-title: "MLink Predictions in an Online Health Community for Smoking Cessation"
+title: "Link Predictions in an Online Health Community for Smoking Cessation"
 collection: publications
 date: 2020-8-24
 venue: KDD Workshop on Mining and Learning with Graphs
