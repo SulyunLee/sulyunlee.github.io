@@ -11,7 +11,7 @@ I am a Ph.D. student in Interdisciplinary Graduate Program in Informatics at the
 
 ### Education
 🎓 B.S. in Computer Science and Engineering, Handong Global University (South Korea), 2017 <br>
-:mortar_board: Ph.D. in Interdisciplinary Graduate Program in Informatics (IGPI), University of Iowa, 2022 (expected)
+🎓 Ph.D. in Interdisciplinary Graduate Program in Informatics (IGPI), University of Iowa, 2022 (expected)
 
 
 
