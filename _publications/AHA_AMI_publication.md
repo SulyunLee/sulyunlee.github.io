@@ -2,7 +2,7 @@
 title: "Treatment Combinations for Elderly Patients and Those With Comorbidities After an Acute Myocardial Infarction"
 collection: publications
 date: 2019-11-11
-venue: Circulation 
+venue: Circulation American Heart Association Journals
 permalink: /publication/AHA_AMI_paper
 ---
 Linnea A Polgreen, Nick Street, and **Sulyun Lee**
