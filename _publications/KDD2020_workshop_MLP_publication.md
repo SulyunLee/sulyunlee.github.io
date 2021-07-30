@@ -3,7 +3,7 @@ title: "Link Predictions in an Online Health Community for Smoking Cessation"
 collection: publications
 date: 2020-8-24
 venue: KDD Workshop on Mining and Learning with Graphs
-permalink: /publication/kdd2020_workshop_MLG
+permalink: /publication/kdd2020_workshop_MLG_paper
 ---
 **Sulyun Lee**, Hankyu Jang, Kang Zhao, Michael S. Amato, and Amanda L. Graham
 
