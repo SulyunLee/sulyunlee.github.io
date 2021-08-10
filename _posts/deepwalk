@@ -1,0 +1,22 @@
+---
+title: 'Understanding DeepWalk'
+date: 2021-08-10
+permalink: /posts/deepwalk
+tags:
+  - network embedding
+  - representation learning
+  - skipgram
+  - deepwalk
+---
+Network embedding is learning representations of nodes in a network. The benefit of network embedding is that each node can be represented as a lower-dimensional vector space, which is useful as feature vectors for several tasks, such as link prediction, node classification, node clustering, and anomaly detection etc.
+Deepwalk[^paper] is one of the most popular network embedding approach that uses unsupervised way of learning node embeddings. Unsupervised node embedding approach is learning the representations of nodes by preserving the desired properties of network and optimizing the embeddings that meets the objective function.	Among the various properties of networks, DeepWalk preserves the closeness of nodes. In other words, node embeddings learned by DeepWalk are similar if nodes are close to each other in a network. Therefore, 
+
+
+Headings are cool
+======
+
+You can have many headings
+======
+
+Aren't headings cool?
+------
