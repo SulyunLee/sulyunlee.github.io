@@ -1,5 +1,5 @@
 ---
-title: 'Blog Post number 2'
+title: 'Statsmodel linear regression'
 date: 2021-06-29
 permalink: /posts/statsmodel_lr
 tags:
