@@ -10,7 +10,7 @@ tags:
 
 In `statsmodel` package in Python, there are various built-in functions for statistical analysis. Linear regression is a statistical model that finds the linear relationships between feature variables and a target variable. Since linear regression models provide the coefficients of each feature variable that indicates the magnitude of impacting the target variable, given other variables. Therefore, it enables the explanations of which feature variables are associated with the target variable. While `sklearn` package in Python also provides the linear regression built-in function, it is not suitable for statistical analysis, since the confidence intervals and p-values of feature coefficients are not easy to obtain.
 
-I implemented a script that fits a linear regression model using `statsmodel` package. Before feeding the feature variables into a linear regression model, three things need to be done: 1) Variance inflation factor analysis, 2) standardization, and 3) log-transformation
+I implemented a script that fits a linear regression model using `statsmodel` package. Before feeding the feature variables into a linear regression model, three things need to be done: 1) Variance inflation factor analysis, 2) standardization, and 3) log-transformation.
 The following packages are needed:
 ```python
 import numpy as np
@@ -32,10 +32,12 @@ In the following code, I used `statsmodel` package `variance_inflation_factor` b
 ```python
 def vif(X, threshold=10.0):
   '''
-  - X: the numpy array of feature vector of size (N x f), where N is the number of instances 
-       and f is the number of feature variables.
-  - threshold: the float number to set as the cutoff of VIF values for removing feature variables 
-       with multi-colinearity. The default is 10.0.
+  Inputs
+    - X: the dataframe of features of size (N x f), where N is the number of instances 
+         and f is the number of feature variables.
+    - threshold: the float number to set as the cutoff of VIF values for removing feature variables 
+         with multi-colinearity. The default is 10.0.
+  Output: dataframe of features after removing high-VIF variables.
   '''
   dropped=True
   while dropped:
@@ -49,7 +51,6 @@ def vif(X, threshold=10.0):
       dropped=True
       
   return X
-
 ```
 
 ## Standardization
@@ -58,6 +59,41 @@ The annual income values might be very wide with the minimum value of 0 and the 
 If we use the raw feature values, the income features might influence the model a lot. Therefore, we need to standardize the feature vectors to have the similar ranges of values.
 There are many ways of standardization, but I usually use mean-zero standardization method that shifts the variables to be centered around 0 with 2-standard deviation.
 
-In the following code, I used the `scale` built-in function from `sklearn` package
+In the following code, I used the `scale` built-in function from `sklearn` package. The input `X` is the numpy array that contains all the feature variables.
+
+```python
+X_scaled = scale(X)
+```
+
+## Log-transformation
+The final step to check before fitting the linear regression model is the log-transform any highly skewed variables.
+This step is required because the basic assumption of linear regression is the normal distribution of variables. High skewness of variables might result in invalid statistical tests.
+In the following code, I used natural log transformation to make right-skewed variables into normal distribution. The input `skewed_X` is the numpy array that only contains the highly skewed feature variables. 
+
+```python
+X_transformed = np.log(skewed_X + 1) # added 1 in case of zero values.
+```
+
+## Linear regression
+After the above three steps are done, we can now fit the linear regression model.
+The following code implements the linear regression model function and the overall processes including the above three steps.
+
+```python
+def linear_regression(df, feature_names, target_name):
+'''
+Input:
+  - df: dataframe that contains both features and target variables to be used for linear regression model.
+  - feature_names: list of feature variable names
+  - target_name: a string that contains the target variable name
+  
+Output: trained linear regression model
+'''
+# Remove collinearity
+X = df[feature_names]
+after_vif = vif(X)
+
+# log-transform variables
+skewed_v
+```
 
 
