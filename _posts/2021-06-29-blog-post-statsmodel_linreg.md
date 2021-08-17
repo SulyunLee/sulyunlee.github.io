@@ -14,6 +14,7 @@ I implemented a script that fits a linear regression model using `statsmodel` pa
 The following packages are needed:
 ```python
 import numpy as np
+import pandas as pd
 import statsmodels.api as sm
 import statsmodels.stats.outliers_influence import variance_inflation_factor
 from sklearn.preprocessing import scale
@@ -76,24 +77,28 @@ X_transformed = np.log(skewed_X + 1) # added 1 in case of zero values.
 
 ## Linear regression
 After the above three steps are done, we can now fit the linear regression model.
-The following code implements the linear regression model function and the overall processes including the above three steps.
+The following code implements the linear regression model function.
 
 ```python
-def linear_regression(df, feature_names, target_name):
-'''
-Input:
-  - df: dataframe that contains both features and target variables to be used for linear regression model.
-  - feature_names: list of feature variable names
-  - target_name: a string that contains the target variable name
-  
-Output: trained linear regression model
-'''
-# Remove collinearity
-X = df[feature_names]
-after_vif = vif(X)
+def linear_regression(df, feature_names, target_name, write_filename):
+  '''
+  Input:
+    - df: dataframe that contains both features and target variables to be used for linear regression model.
+    - feature_names: list of feature variable names
+    - target_name: a string that contains the target variable name
+    - write_filename: a string of the filename for exporting the modeling result.
 
-# log-transform variables
-skewed_v
+  Output: trained linear regression model
+  '''
+  formula = "{} ~ {}".format(target_name, "+".join(feature_names))
+  
+  model = smf.ols(formula=formula, data=df).fit()
+  
+  # export model fit to csv file
+  with open("/results/{}.csv".format(write_filename), "w") as fh:
+    fh.write(model.summary().as_csv())
+    
+  return model
 ```
 
 
