@@ -17,3 +17,6 @@ After the first outbreak of coronavirus (COVID-19) at Wuhan, China, in December 
 
 **Talk info link**:
 [https://www.abstractsonline.com/pp8/#!/9022/session/3097](https://www.abstractsonline.com/pp8/#!/9022/session/3097)
+
+**Presentation slides**:
+[slides](http://sulyunlee.github.io/files/INFORMS2020_slides.pdf)
