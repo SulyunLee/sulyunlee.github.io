@@ -17,3 +17,6 @@ Online Health Communities (OHCs) are popular sources for patients and their fami
 
 **Talk info link**:
 [https://www.abstractsonline.com/pp8/#!/6818/presentation/5441](https://www.abstractsonline.com/pp8/#!/6818/presentation/5441)
+
+**Presentation slides**:
+[slides](http://sulyunlee.github.io/files/INFORMS2019_slides.pdf)
