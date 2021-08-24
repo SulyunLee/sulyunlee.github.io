@@ -17,3 +17,6 @@ Effective link predictions in online social networks can help to improve user ex
 
 **Talk video link**:
 [https://www.youtube.com/watch?v=W_nJG5x_fPw](https://www.youtube.com/watch?v=W_nJG5x_fPw)
+
+**Spotlight presentation slides**:
+[slides](http://sulyunlee.github.io/files/KDD_MLG2020_spotlight.pdf)
