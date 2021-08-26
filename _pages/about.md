@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student in Interdisciplinary Graduate Program in Informatics (IGPI) at the University of Iowa. My academic advisor is [Dr. Kang Zhao](https://tippie.uiowa.edu/people/kang-zhao) from the Department of Business Analytics. My research focuses on data science in social and business networks. Specifically, I am currently working on a dissertation that applies network embedding approaches to represent team/collaboration networks to discover the collaborative patterns in determining the team success.
+I am a Ph.D. student in Interdisciplinary Graduate Program in Informatics (IGPI) at the University of Iowa. My current academic advisor is [Dr. Kang Zhao](https://tippie.uiowa.edu/people/kang-zhao) from the Department of Business Analytics. My research focuses on data mining in social/business networks. Specifically, I am interested in graph embedding techniques that learn the representations of networks using machine learning and deep learning architectures. I am currently working on a dissertation "Represrentation Learning on Hierarchical Collaboration Networks," which is learning network embeddings on team collaboration networks with hierarchical command structure.
 
 ### Education
 🎓 B.S. in Computer Science and Engineering, Handong Global University (South Korea), 2017 <br>
