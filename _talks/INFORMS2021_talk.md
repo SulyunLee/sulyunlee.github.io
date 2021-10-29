@@ -1,22 +1,24 @@
 ---
-title: "Understanding the Research Collaboration During COVID-19 Pandemic"
+title: "Predicting NFL Team Performance Via Hierarchical Team Embeddings"
 collection: talks
 type: "Conference talk"
-permalink: /talks/INFORMS2020
-venue: "INFORMS Annual Meeting 2020"
-date: 2020-11-09
-location: "Virtual Meeting"
+permalink: /talks/INFORMS2021
+venue: "INFORMS Annual Meeting 2021"
+date: 2021-10-26
+location: "Anaheim, CA"
 ---
-The research project was presented at INFORMS Annual Meeting 2020 in a session titled, *Data and Network Science*.
+The research project was presented at INFORMS Annual Meeting 2021 in a session titled, *Data Mining in Networks*.
 
 **Authors**:
-**Sulyun Lee**, Kang Zhao, and Ning Li
+**Sulyun Lee** and Kang Zhao
 
 **Abstract**:
-After the first outbreak of coronavirus (COVID-19) at Wuhan, China, in December 2019, it has spread globally across 188 countries. This pandemic situation has attracted many researchers' attention because of the novelty of the virus. In this study, we focus on researchers' collaborations on academic papers related to COVID-19 published in various journals across countries. By constructing the authors' collaboration networks involved in those papers, we discover the patterns newly found among the authors. More specifically, we focus on the diversity of the collaborating authors in terms of their research fields, cultures, and academic prestige to find the factors that contribute to the research papers' academic and public impacts.
+Collaboration is a fundamental part of teams where individuals form groups to reach the common goals of assigned tasks. In networks such as academic collaboration networks, sports teaming networks, or online gaming networks, exploring the aspects of collaborations is essential in predicting team performances. This work focuses on collaborations of coaches in National Football Leagues (NFL). We observed the collaborations among coaches in the same team and proposed a model that
+predicts the team performance given the coach information and collaborations. Specifically, we focused on the hierarchical collaborations among the NFL
+coaches, where coaches are at different levels in the command structures.
 
 **Talk info link**:
-[https://www.abstractsonline.com/pp8/#!/9022/session/3097](https://www.abstractsonline.com/pp8/#!/9022/session/3097)
+[https://www.abstractsonline.com/pp8/#!/10390/session/641](https://www.abstractsonline.com/pp8/#!/10390/session/641)
 
 **Presentation slides**:
-[slides](http://sulyunlee.github.io/files/INFORMS2020_slides.pdf)
+[slides](http://sulyunlee.github.io/files/INFORMS2021_slides.pdf)
