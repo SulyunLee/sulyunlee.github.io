@@ -13,4 +13,4 @@ Effective link predictions in online social networks can help to improve user ex
 **Paper link**: [http://www.mlgworkshop.org/2020/papers/MLG2020_paper_25.pdf](http://www.mlgworkshop.org/2020/papers/MLG2020_paper_25.pdf)
 
 **Recommended citation**: <br>
-Sulyun Lee, Hankyu Jang, Kang Zhao, Michael S. Amato, and Amanda L. Graham. Link Prediction in anOnline Health Community for Smoking Cessation. KDD workshop on Mining and Learning with Graphs. VirtualMeeting, 2020.
+Sulyun Lee, Hankyu Jang, Kang Zhao, Michael S. Amato, and Amanda L. Graham. Link Prediction in anOnline Health Community for Smoking Cessation. KDD workshop on Mining and Learning with Graphs, 2020.
