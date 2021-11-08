@@ -2,7 +2,7 @@
 title: "Hierarchy2vec - Representation Learning in Hierarchical Collaboration Networks for Team Performance Prediction"
 collection: publications
 date: 2021-11-13
-venue: 'INFORMS Data Science Workshop'
+venue: INFORMS Data Science Workshop
 permalink: /publication/INFORMS2021_DS_publication
 ---
 **Sulyun Lee** and Kang Zhao
