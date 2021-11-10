@@ -1,5 +1,5 @@
 ---
-title: 'Statsmodel linear regression'
+title: 'Linear Regression Using Python Statsmodel Library'
 date: 2021-06-29
 permalink: /posts/statsmodel_lr
 tags:
