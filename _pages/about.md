@@ -13,13 +13,13 @@ Before joining the company, I pursued a Ph.D. degree in Informatics at the Unive
 I also collaborated with professors and students with medical and pharmaceutical backgrounds. I analyzed the medical claims dataset to optimize treatment for heart attack patients using predictive modeling and provided data-driven insights for possible risk factors for genetic diseases. 
 
 ### Work
-🏢 Data Scientist | Happiest Baby, Inc.
+🏢 Data Scientist | Happiest Baby, Inc. <br>
 06/2022 - Present
 
-🏢 Statistical Consultant & Instructor | Iowa Social Science Research Center
+🏢 Statistical Consultant & Instructor | Iowa Social Science Research Center <br>
 08/2019 - 05/2022
 
-🏢 Graduate Research Assistant | University of Iowa
+🏢 Graduate Research Assistant | University of Iowa <br>
 08/2017 - 05/2021
 
 
