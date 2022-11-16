@@ -12,10 +12,20 @@ I joined Happiest Baby, Inc. in June 2022 as a Data Scientist in the AI team. As
 Before joining the company, I pursued a Ph.D. degree in Informatics at the University of Iowa. My academic advisor was [Dr. Kang Zhao](https://tippie.uiowa.edu/people/kang-zhao) from the Department of Business Analytics. My research focused on data mining in social/business networks. Specifically, I proposed a novel Graph Neural Network model that predicts team performance in collaborative settings using the nature of team structures.
 I also collaborated with professors and students with medical and pharmaceutical backgrounds. I analyzed the medical claims dataset to optimize treatment for heart attack patients using predictive modeling and provided data-driven insights for possible risk factors for genetic diseases. 
 
+### Work
+🏢 Data Scientist | Happiest Baby, Inc.
+06/2022 - Present
+
+🏢 Statistical Consultant & Instructor | Iowa Social Science Research Center
+08/2019 - 05/2022
+
+🏢 Graduate Research Assistant | University of Iowa
+08/2017 - 05/2021
+
 
 ### Education
 🎓 B.S. in Computer Science and Engineering, Handong Global University (South Korea), 2017 <br>
-🎓 Ph.D. in Interdisciplinary Graduate Program in Informatics, University of Iowa, 2022 (expected)
+🎓 Ph.D. in Informatics, University of Iowa, 2022 
 
 ### Skills
 Data science
