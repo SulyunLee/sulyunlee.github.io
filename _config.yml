@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sulyun Lee's personal website"
+title                    : "Sulyun Lee's website"
 title_separator          : "-"
 name                     : &name "Sulyun Lee"
 description              : &description "personal description"
@@ -78,11 +78,11 @@ analytics:
 author:
   name             : "Sulyun Lee"
   avatar           : "IMG_0412.JPG"
-  bio              : "Ph.D. student in Interdisciplinary Graduate Program in Informatics at University of Iowa"
-  location         : "Iowa City, IA"
+  bio              : "Data Scientist at Happiest Baby, Inc."
+  location         : "Los Angeles, CA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=yrJTyHIAAAAJ&hl=en&inst=9582137513865749914"
-  email            : "sulyun-lee@uiowa.edu"
+  email            : "sulyun.lee.careers@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
