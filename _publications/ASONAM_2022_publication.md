@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Healthcare Embeddings for Improving Patient Care"
 collection: publications
-date: 2022-11
+date: 2022-11-16
 venue: 'IEEE/ACM Advances in Social Networks Analysis and Mining (ASONAM)'
 permalink: /publication/ASONAM_2022_publication
 ---
