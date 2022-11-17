@@ -24,7 +24,7 @@ over the state-of-the-art baselines.
 In addition, case studies on the learned doctor, medication, and room embeddings show that our approach learns meaningful and interpretable embeddings.
 
 
-**Paper link**: [PDF]([http://sulyunlee.github.io/files/no_copyright_ASONAM22_dynamic_healthcare_embeddings_for_improving_patient_care.pdf])
+**Paper link**: [PDF](http://sulyunlee.github.io/files/no_copyright_ASONAM22_dynamic_healthcare_embeddings_for_improving_patient_care.pdf)
 
 **Recommended citation**: <br>
 Hankyu Jang, Sulyun Lee, D. M. Hasibul Hasan, Philip M. Polgreen, Sriram V. Pemmaraju and Bijaya Adhikari. Dynamic Healthcare Embeddings for Improving Patient Care. In Proceedings of the 2022 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2022).
