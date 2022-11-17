@@ -25,4 +25,5 @@ Given the many features we examined, ACEi/ARBs were associated with increased 1-
 **Paper link**: [Link](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-022-01854-1)
 
 **Recommended citation**: <br>
-Lee, J., Lee, S., Street, W.N., Polgreen, L.A. Machine learning approaches to predict the 1-year-after-initial-AMI survival of elderly patients. *BMC Med Inform Decis Mak* 22, 115 (2022). https://doi.org/10.1186/s12911-022-01854-1
+Lee, J., Lee, S., Street, W. N., & Polgreen, L. A. (2022). Machine learning approaches to predict the 1-year-after-initial-AMI survival of elderly patients. *BMC Medical Informatics and Decision Making*, 22(1), 1-12. https://doi.org/10.1186/s12911-022-01854-1
+
