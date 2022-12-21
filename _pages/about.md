@@ -24,19 +24,21 @@ I also collaborated with professors and students with medical and pharmaceutical
 
 
 ### Education
-🎓 B.S. in Computer Science and Engineering, Handong Global University (South Korea), 2017 <br>
-🎓 Ph.D. in Informatics, University of Iowa, 2022 
+🎓 Ph.D. in Informatics, University of Iowa, 2022 <br>
+🎓 B.S. in Computer Science and Engineering, Handong Global University (South Korea), 2017
+
 
 
 ### Skills
 Data science <br>
-Data analysis <br>
+Machine learning <br>
+Deep learning <br>
 Graph mining <br>
+Data analysis <br>
 Predictive modeling <br>
+Statistical modeling <br>
 Research <br>
 Data visualization <br>
 Database design <br>
-Presentation <br>
-Communication <br>
 
 
