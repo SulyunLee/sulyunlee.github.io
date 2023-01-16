@@ -7,6 +7,8 @@ permalink: /publication/ASONAM_2022_publication
 ---
 Hankyu Jang, **Sulyun Lee**, D. M. Hasibul Hasan, Philip M. Polgreen, Sriram V. Pemmaraju and Bijaya Adhikari
 
+🎉 This paper was awarded the Student Runner-up. [Certificate](http://sulyunlee.github.io/files/Student_Runner-up_Best_Paper_Certificate_Asonam2022.pdf)
+
 **Abstract**:<br>
 As hospitals move towards automating and integrating their computing systems, more fine-grained hospital operations data are becoming available.
 These data include hospital architectural drawings, logs of interactions between patients and healthcare professionals, prescription data, procedures data, and data on patient admission, discharge, and transfers.
